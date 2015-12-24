@@ -1,7 +1,7 @@
 Package.describe({
     summary: "Filter, paging and sort for Meteor collections with hooks and Iron Router support.",
     version: "1.0.2",
-    name: "doctorpangloss:filter-collections",
+    name: "sojourner:filter-collections",
     git: "https://github.com/workpop/filter-collections"
 });
 
